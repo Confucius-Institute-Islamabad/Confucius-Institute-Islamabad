@@ -59,7 +59,7 @@ Chinese and Pakistani teachers deliver language training and organise Chinese co
 
 ## How to join
 
-<img src="assets/journey.svg" alt="Apply online, download the fee challan, pay at the bank, payment is verified, then use the student portal" width="100%">
+<img src="assets/journey-steps.svg" alt="Apply online, download the fee challan, pay at the bank, payment is verified, then use the student portal" width="100%">
 
 <div align="center"><a href="https://www.confuciusinstituteislamabad.com/registration"><b>Start your application →</b></a></div>
 
