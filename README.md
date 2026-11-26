@@ -59,17 +59,7 @@ Chinese and Pakistani teachers deliver language training and organise Chinese co
 
 ## How to join
 
-```mermaid
-flowchart LR
-    A([Apply online]) --> B[Download the<br/>fee challan]
-    B --> C[Pay at<br/>the bank]
-    C --> D{Payment<br/>verified}
-    D --> E([Student portal])
-    classDef step fill:#e6f7f0,stroke:#006c4b,color:#00281c,stroke-width:1.5px
-    classDef end_ fill:#006c4b,stroke:#006c4b,color:#ffffff
-    class B,C,D step
-    class A,E end_
-```
+<img src="assets/journey.svg" alt="Apply online, download the fee challan, pay at the bank, payment is verified, then use the student portal" width="100%">
 
 <div align="center"><a href="https://www.confuciusinstituteislamabad.com/registration"><b>Start your application →</b></a></div>
 
@@ -121,13 +111,13 @@ Full profiles are on the [faculty page](https://www.confuciusinstituteislamabad.
 
 ## Visit us
 
-| | |
-|---|---|
-| 📍 **Address** | Confucius Institute, NUML Main Campus, Sector H-9/4, Islamabad |
-| ✉️ **Email** | [info-cii@numl.edu.pk](mailto:info-cii@numl.edu.pk) |
-| ☎️ **Phone** | [+92 51 9265100](tel:+92519265100) |
-| 🕘 **Hours** | Monday – Friday, 08:30 – 16:30 PKT |
-| 🌐 **Web** | [confuciusinstituteislamabad.com](https://www.confuciusinstituteislamabad.com) |
+<table>
+  <tr><td>📍 <b>Address</b></td><td>Confucius Institute, NUML Main Campus, Sector H-9/4, Islamabad</td></tr>
+  <tr><td>✉️ <b>Email</b></td><td><a href="mailto:info-cii@numl.edu.pk">info-cii@numl.edu.pk</a></td></tr>
+  <tr><td>☎️ <b>Phone</b></td><td><a href="tel:+92519265100">+92 51 9265100</a></td></tr>
+  <tr><td>🕘 <b>Hours</b></td><td>Monday – Friday, 08:30 – 16:30 PKT</td></tr>
+  <tr><td>🌐 <b>Web</b></td><td><a href="https://www.confuciusinstituteislamabad.com">confuciusinstituteislamabad.com</a></td></tr>
+</table>
 
 <details>
 <summary><b>中文简介</b></summary>
